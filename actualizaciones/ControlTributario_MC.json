@@ -1,0 +1,8 @@
+{
+ "empresa": "ControlTributario_MC",
+ "build": 30,
+ "notas": "Mejoras: revisión semanal de estado y condición en SUNAT, establecimientos anexos y presentación más limpia.",
+ "url": "https://github.com/CONTAPLANIX/control-tributario-licencias/releases/download/mc-v1.30/ControlTributario_MC_v1.30.ctu",
+ "sha256_ctu": "0c2a1bdda8847ff201bd82f7bc116ff431d100dd9c9add4e6b9e7c1466ab1e96",
+ "fecha": "2026-10-22"
+}
